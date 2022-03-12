@@ -13,5 +13,8 @@
     <orderEntry type="library" name="commons-codec-1.15" level="project" />
     <orderEntry type="library" name="auxiliary" level="project" />
     <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="jsoup-1.8.22" level="project" />
+    <orderEntry type="library" name="commons-codec-1.12" level="project" />
+    <orderEntry type="library" name="auxiliary1" level="project" />
   </component>
 </module>

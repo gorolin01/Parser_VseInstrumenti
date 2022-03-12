@@ -9,7 +9,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-public class NewMain {
+public class NewMain { //change_12.03
 
     private static String SiteName = "test"; //имя главного каталога
     //private static String mainUrl = "https://simferopol.resantagroup.ru"; //нужно для загрузки киртинок
