@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jsoup-1.8.21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/ТестовоеПоле/ПарсерАвито/AvitoParser-master/ДругиеВерсии/AvitoParserV1/dist/lib/jsoup-1.8.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../lib_IDE/poi-5.0.0" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../lib_IDE/poi-5.0.0/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../lib_IDE/poi-5.0.0" recursive="false" />
+  </library>
+</component>

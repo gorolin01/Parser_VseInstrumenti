@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../lib_IDE/poi-5.0.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../lib_IDE/poi-5.0.0/ooxml-lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../lib_IDE/poi-5.0.0/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../lib_IDE/poi-5.0.0/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../lib_IDE/poi-5.0.0/ooxml-lib" recursive="false" />
+  </library>
+</component>
